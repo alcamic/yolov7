@@ -24,6 +24,7 @@
 storage.googleapis.com
 runs/*
 data/*
+!data/face_mask_dataset
 !data/*.yaml
 !data/hyps
 !data/scripts
